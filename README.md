@@ -57,7 +57,7 @@ Clustered Column Chart – Sales by region and gender
 
 Filters such as Region, City, and Invoice Date allow users to interactively explore the data.
 
-Process
+# Process
 
 Data Collection
 Obtained the Adidas sales dataset containing information about sales transactions, products, retailers, and regions.
@@ -82,7 +82,7 @@ Average Price per Unit
 Dashboard Development
 Designed an interactive dashboard using different charts, cards, and slicers to make insights easy to understand.
 
-Key Insights
+# Key Insights
 
 The West region generates the highest sales compared to other regions.
 
